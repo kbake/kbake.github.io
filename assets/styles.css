@@ -1,31 +1,31 @@
 html
 {
-      background-color: rgb(155,155,155);
+  background-color: rgb(155,155,155);
 }
 div.header
 {
-      font-family: 'Bungee', cursive;
-      font-size: 48px;
-      color: white;
-      padding-left: 15px;
+  font-family: 'Bungee', cursive;
+  font-size: 48px;
+  color: white;
+  padding-left: 15px;
 }
 article
 {
-      padding: 15px;
-      font-family: 'Anonymous Pro', monospace;
+  padding: 15px;
+  font-family: 'Anonymous Pro', monospace;
 }
 article div
 {
-      font-size: 20px;
-      color:white;
+  font-size: 20px;
+  color:white;
 }
 a
 {
-      color: orange;
+  color: orange;
 }
 footer
 {
-      position: absolute;
-      bottom: 10px;
-      color: white;
+  position: absolute;
+  bottom: 10px;
+  color: white;
 }
